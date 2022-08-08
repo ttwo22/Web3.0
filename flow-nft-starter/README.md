@@ -1,4 +1,4 @@
-# buildspace Flow NFT 合集
+# 在 Flow 上发布您自己的 NFT 收藏
 
 ### **Welcome 👋**
 克隆压缩包，解压执行:
