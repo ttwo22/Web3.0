@@ -26,7 +26,7 @@
 
 自动生成nfts源码：https://github.com/HashLips/hashlips_art_engine/releases
 
-metaplex：
+metaplex：https://docs.metaplex.com/
 
 - 官网版
 - https://github.com/metaplex-foundation/metaplex
